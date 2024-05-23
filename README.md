@@ -118,5 +118,6 @@ Boiler plate html added
 index.html added
 Favicon unsuccessful add
 assets folder created
-
+Favicon issue resolved had to unzip before adding. 
+added links for fav icons and formatted doc to links would add nicely 
 
